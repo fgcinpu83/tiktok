@@ -1,0 +1,7 @@
+gtts==2.4.0
+opencv-python==4.8.1.78
+mediapipe==0.10.1
+numpy==1.24.3
+moviepy==1.0.3
+pillow==10.0.0
+pydub==0.25.1
